@@ -1,4 +1,4 @@
-*Desenvolvido por [Lucas Lopes Freire]*
+*Desenvolvido por Lucas Lopes Freire*
 =======
 # Olá, eu sou o Lucas! 👋
 

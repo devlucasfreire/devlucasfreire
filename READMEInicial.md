@@ -1,17 +1,15 @@
-*Desenvolvido por Lucas Lopes Freire*
-=======
 # Olá, eu sou o Lucas! 👋
 
-### 👨‍💻 Sobre mim
-Sou um estudante apaixonado por tecnologia e atualmente estou mergulhado no ecossistema **Java**. Meu foco é construir uma base sólida em Programação Orientada a Objetos (POO) e boas práticas de desenvolvimento.
+Estudante de **Análise e Desenvolvimento de Sistemas** focado em **Java Backend**. 
+Atualmente mergulhado em POO e preparando o terreno para Spring Boot e Cloud.
 
-- 🎓 Estudante no Centro Universitário FAM em Analise e Desenvolvimento de Sistemas
-- 🎓 Estudante na **Alura**.
-- 🚀 Atualmente focado em: **Java 17+, Estrutura de Dados e Organização de Projetos**.
-- 🎯 Objetivo: Me tornar um desenvolvedor Java Backend capaz de criar soluções robustas e escaláveis.
-- Futuro: Após o Java, pretendo iniciar estudos em JS, com foco no node após ter uma base sólida em JS. 
+### 🛠️ No meu Radar:
+- **Linguagens:** Java (Foco Total), JavaScript (Próximo passo).
+- **Backend:** Em breve Spring Boot 3 e Node.js.
+- **Infra:** Git, GitHub e estudos iniciais de AWS.
 
----
+### 🚀 Projetos em Destaque:
+- **Melodix:** Simulador de player de áudio explorando Herança, Polimorfismo e Interfaces.
 
 ### 🛠️ Tecnologias e Ferramentas
 <div inline="horizontal">

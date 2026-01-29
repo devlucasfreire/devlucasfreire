@@ -9,7 +9,7 @@ Atualmente mergulhado em POO e preparando o terreno para Spring Boot e Cloud.
 - **Infra:** Git, GitHub e estudos iniciais de AWS.
 
 ### 🚀 Projetos em Destaque:
-- **Melodix:** Simulador de player de áudio explorando Herança, Polimorfismo e Interfaces.
+- **Melodix:** Simulador de player de áudio explorando Herança, Polimorfismo, Interfaces, ArrayLists e Construtores.
 
 ### 🛠️ Tecnologias e Ferramentas
 <div inline="horizontal">

@@ -26,9 +26,7 @@ Atualmente mergulhado em POO e preparando o terreno para Spring Boot e Cloud.
 
 ---
 
-### 📫 Como me encontrar
-- **LinkedIn:** https://www.linkedin.com/in/lucaslopesfreire/
-- **Email:** lopes.lucas379@gmail.com
+
 
 <br />
 
